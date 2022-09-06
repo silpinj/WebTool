@@ -1,5 +1,5 @@
 # Web tool for the study of the influence of mobility variables on COVID-19 incidence
-Master Thesis - Master in Telecommunications Engineering - UCM3
+Master Thesis - Master in Telecommunications Engineering - UC3M
 
 To install this web tool locally:
 1. Download this project.
