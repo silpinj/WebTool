@@ -6,5 +6,6 @@ To install this web tool locally:
 2. Create a Dynamic Web Project on Eclipse (File > New) with the name "WebTool".
 3. Right click on the new project and click on Import > General > File System and import the project download.
 4. Add an Apache Tomcat Server to the project.
+5. Create database with files from "Data" folder. 
 
 Enjoy!
